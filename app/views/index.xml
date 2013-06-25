@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<Button id="btnDownload" onClick="downloadMP3" top="10">Download MP3</Button>
+		<Button id="btnPlay" onClick="playMP3" top="60">Play MP3 Localy</Button>
+		<Button id="btnStop" onClick="stopMP3" top="110">Stop MP3 Localy</Button>
+		<Button id="btnDeleteMP3" onClick="deleteMP3" top="160">Delete the file</Button>
+	</Window>
+</Alloy>
